@@ -40,7 +40,12 @@
 
 
 
-<p align="center">🥺👉👈<img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" />
+
+<p align="center">🥺👉👈
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" />
+  
+  
 
 
  
