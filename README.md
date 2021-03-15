@@ -41,7 +41,7 @@
 
 
 
-<p align="center">🥺👉👈
+<p align="center">🥺👉👈</p>
   
   <img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" />
   
