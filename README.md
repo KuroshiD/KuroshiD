@@ -41,7 +41,7 @@
 
 📈 My GitHub Stats
 
-<p align="center"> 📈 My GitHub Stats </p>
-<img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" style="postion: relative; align-items: center;"/>
+<p align="center"> 📈 My GitHub Stats 
+<img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" align="/>
 
  
