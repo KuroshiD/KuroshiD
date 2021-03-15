@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/KuroshiD/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 # Gustavo Sanches
 
 studying computer science
