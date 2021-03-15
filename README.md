@@ -42,7 +42,6 @@
 📈 My GitHub Stats
 
 <p align="center"> 📈 My GitHub Stats </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula")
-
+<img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" />
 
  
