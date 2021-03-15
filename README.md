@@ -7,6 +7,7 @@
 </a>
  
  <br />
+ <br />
  
  I'm a back end web developer. I take greate care in the experience, architecture, and code quality of the things I build.
  I am also an open-source enthusiast. I learned a lot from the open source community and I love how collaboration and knowledge sharing happened through open-source.
