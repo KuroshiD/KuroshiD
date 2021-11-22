@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Hey There 👋
 
 <div align="center">
   <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/KuroshiD/KuroshiD/blob/main/gif1.gif">
