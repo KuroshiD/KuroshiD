@@ -46,18 +46,9 @@
   </div>
 </div>
 <div align="center">
-   <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/KuroshiD/KuroshiD/blob/main/gi3.gif">
+   <img hight="320" width="450" align="center" alt="GIF" src="https://github.com/KuroshiD/KuroshiD/blob/main/gi3.gif">
 </div>
 
-</br>
-</br>
-</br>
-
- </br>
-
-
-
-</br>
 </br>
 </br>
 </br>
@@ -70,4 +61,5 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
       <img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" />
     </a>
+   </div>
 </div>
