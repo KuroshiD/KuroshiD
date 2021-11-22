@@ -1,56 +1,69 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="#">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Kazuma#0520" />
-</a>
-<a href="https://open.spotify.com/user/gusanches601">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
- 
- <br />
- <br />
- 
- I'm a back end web developer. I take greate care in the experience, architecture, and code quality of the things I build.
- I am also an open-source enthusiast. I learned a lot from the open source community and I love how collaboration and knowledge sharing happened through open-source.
- 
- 
- <img align="right" alt="GIF" src="https://github.com/KuroshiD/KuroshiD/blob/main/e18518c6d24257c6fb02e3c95a862d85.gif?raw=true" width="500px" height="320px" />
- 
- - 💬 Ask me anything, I am happy to help
- 
- **Languages and Tools:**
+# Konichiwa 👋
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<div align="center">
+  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/KuroshiD/KuroshiD/blob/main/gif1.gif">
+</div>
 
+</br>
+</br>
+</br>
 
+# About ME 💬 :
 
-📊 **Most Used Languages**
-<!--START_SECTION:section-->
-```text
-  javascript █████████████████▓░░░░░░░ 70%
-  json       ███▓░░░░░░░░░░░░░░░░░░░░░ 15%
-  python     ██▓░░░░░░░░░░░░░░░░░░░░░░ 10%
-  Other      █▓░░░░░░░░░░░░░░░░░░░░░░░ 5%
-```
-<!--END_SECTION:section-->
+### - I'm 19 years old and a full stack developer.
 
-<br />
-<br />
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/KuroshiD/KuroshiD/blob/main/gif2.jpeg">
 
+### - Learning:
 
+- ✨ Typescript
+- ✨ Dotnet
+- ✨ Styled Components
+- ✨ Redux
 
-<p align="center">🥺👉👈
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" />
+### - Hobbies:
+
+- ✨ Reading Light Novels
+- ✨ Reading mangas/manwhas
+
+</br>
+</br>
+</br>
+
+# Languages & Frameworks 👨‍💻:
+
+</br>
+
+<div align="center">
+  <div display="flex">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  </div>
+</div>
+
+</br>
+</br>
+</br>
+
+ </br>
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/KuroshiD/KuroshiD/blob/main/gi3.gif">
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" />
+  </a>
 </p>
-  
-  
-
-
- 
