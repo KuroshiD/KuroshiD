@@ -17,6 +17,7 @@
 ### - Learning:
 
 - ✨ Typescript
+- ✨ C#
 - ✨ Dotnet
 - ✨ Styled Components
 - ✨ Redux
