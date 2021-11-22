@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/KuroshiD/KuroshiD/blob/main/gif1.gif">
+  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/KuroshiD/KuroshiD/blob/main/e18518c6d24257c6fb02e3c95a862d85.gif">
 </div>
 
 </br>
