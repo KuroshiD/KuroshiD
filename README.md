@@ -44,6 +44,9 @@
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   </div>
+  <div display="flex">
+     <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/KuroshiD/KuroshiD/blob/main/gi3.gif">
+  </div>
 </div>
 
 </br>
@@ -67,5 +70,4 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
       <img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" />
     </a>
-    <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/KuroshiD/KuroshiD/blob/main/gi3.gif">
 </div>
