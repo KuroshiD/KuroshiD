@@ -1,14 +1,14 @@
 # Hey There 👋
 
 <div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/KuroshiD/KuroshiD/blob/main/gifnovo.gif">
+  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/KuroshiD/KuroshiD/blob/main/giphy.gif">
 </div>
 </br>
 </br>
 
 # About ME 💬 :
 
-### - I'm 19 years old and a full stack developer.
+### - I'm 20 years old and a full stack developer.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/KuroshiD/KuroshiD/blob/main/e18518c6d24257c6fb02e3c95a862d85.gif">
 
