@@ -35,9 +35,6 @@
 </br>
 </br>
 
-</br>
-</br>
-</br>
 
 <div align="center">
    <img hight="320" width="450" align="center" alt="GIF" src="https://github.com/KuroshiD/KuroshiD/blob/main/gi3.gif">
