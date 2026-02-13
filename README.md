@@ -8,7 +8,7 @@
 
 # About ME 💬 :
 
-### - I'm 22 years old and a full stack developer.
+### - I'm 23 years old and a full stack developer.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/KuroshiD/KuroshiD/blob/main/e18518c6d24257c6fb02e3c95a862d85.gif">
 
@@ -30,6 +30,7 @@
 
 - ✨ Reading Light Novels
 - ✨ Reading mangas/manwhas
+- ✨ Gym
 
 </br>
 </br>
