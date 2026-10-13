@@ -14,11 +14,11 @@
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/KuroshiD/KuroshiD/main/e18518c6d24257c6fb02e3c95a862d85.gif" alt="GIF"/>
 
-I build web software for a living, but the thing I actually want to do is research in AI.
+Full stack developer aiming for a career in AI research.
 
-I'm not only interested in the deep learning side. I like the older ideas too: search, planning, symbolic reasoning, the stuff people tend to skip on the way to neural nets. Right now I'm studying supervised and reinforcement learning, and trying to understand where the classical methods still win.
+My interests are reinforcement learning, supervised learning, classical AI (search and planning) and symbolic AI. I also enjoy the functional paradigm.
 
-I also have a soft spot for functional programming. I like code where data flows in one direction and functions don't surprise me. Catholic, if that matters to you.
+Catholic.
 
 <br clear="right"/>
 
@@ -32,13 +32,11 @@ I also have a soft spot for functional programming. I like code where data flows
 
 <img src="https://skillicons.dev/icons?i=py,rust&theme=dark" alt="Learning"/>
 
-Python for the deep learning work, Rust because I want a systems language that takes correctness seriously.
-
 ## Away from the keyboard
 
-I read a lot of light novels, manga and manhwa. My favorite is **Lord of the Mysteries**, which I'll gladly talk about for far too long.
+Light novels, manga, manhwa, chess and gym.
 
-I play chess, which scratches the same itch as my AI interests (it's basically a search problem with feelings), and I go to the gym.
+Favorite novel: **Lord of the Mysteries**.
 
 ## GitHub stats
 
