@@ -30,12 +30,12 @@ Full Stack Developer · Anime & manga enjoyer
 
 ![Neon street in Kabukicho, Shinjuku, Tokyo](https://commons.wikimedia.org/wiki/Special:FilePath/Colorful_neon_street_signs_in_Kabukich%C5%8D,_Shinjuku,_Tokyo.jpg?width=700)
 
-\
+
 
 
 ![GIF](https://raw.githubusercontent.com/KuroshiD/KuroshiD/main/gi3.gif)
 
-\
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KuroshiD&show_icons=true&theme=transparent&title_color=bd93f9&icon_color=bd93f9&text_color=8b949e&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KuroshiD&layout=compact&theme=transparent&title_color=bd93f9&text_color=8b949e&hide_border=true)
