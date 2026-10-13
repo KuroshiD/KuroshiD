@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=BD93F9&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Aspiring+AI+Researcher;Reinforcement+Learning+%26+Symbolic+AI;Functional+Programming+enjoyer)](https://github.com/KuroshiD)
 
-![Profile views](https://komarev.com/ghpvc/?username=KuroshiD&style=flat-square&color=8A2BE2&label=profile+views)
-
+![Followers](https://img.shields.io/github/followers/KuroshiD?style=flat-square&color=8A2BE2&label=followers)
 </div>
 
 ---
