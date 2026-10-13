@@ -30,8 +30,6 @@ Full Stack Developer · Anime & manga enjoyer
 
 ![Neon street in Kabukicho, Shinjuku, Tokyo](https://commons.wikimedia.org/wiki/Special:FilePath/Colorful_neon_street_signs_in_Kabukich%C5%8D,_Shinjuku,_Tokyo.jpg?width=700)
 
-Kabukicho, Tokyo (https://commons.wikimedia.org/wiki/File:Colorful_neon_street_signs_in_Kabukich%C5%8D,_Shinjuku,_Tokyo.jpg) (CC BY-SA)
-
 \
 
 
