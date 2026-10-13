@@ -70,8 +70,8 @@ Full stack developer with a growing focus on AI research. I'm interested in both
 
 <!-- Troque pelos seus links -->
 [![GitHub](https://img.shields.io/badge/GitHub-KuroshiD-181717?style=for-the-badge&logo=github)](https://github.com/KuroshiD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgsanchezmarioto/)
+[![Email](https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusanches601@gmail.com)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
