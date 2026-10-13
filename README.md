@@ -1,53 +1,43 @@
-# Hey There 👋
+# Kuroshi
 
-<div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/KuroshiD/KuroshiD/blob/main/giphy.gif">
-</div>
-</br>
-</br>
+Full Stack Developer · Anime & manga enjoyer
 
-# About ME 💬 :
+![Banner GIF](https://raw.githubusercontent.com/KuroshiD/KuroshiD/main/giphy.gif)
 
-### - I'm 23 years old and a full stack developer.
+## About
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/KuroshiD/KuroshiD/blob/main/e18518c6d24257c6fb02e3c95a862d85.gif">
+![GIF](https://raw.githubusercontent.com/KuroshiD/KuroshiD/main/e18518c6d24257c6fb02e3c95a862d85.gif)
 
-### - using:
+- 23 years old, full stack developer
+- Catholic 
+- Currently learning **Deep Learning** and **Python**, plus **Rust** on the side
+- I like clean, performant, well-structured code
 
-- ✨ C++
-- ✨ Golang
-- ✨ Python
-- ✨ Ts/Js
-  
-### - learnign:
+## Stack
 
-- ✨ C#
-- ✨ Rust
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+## Learning
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-in_progress-8A2BE2?style=flat-square) ![Python](https://img.shields.io/badge/Python-in_progress-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-in_progress-000000?style=flat-square&logo=rust&logoColor=white)
+
+## Beyond code
 
 
-### - Hobbies:
+- 📚 Reading light novels
+- 🎴 Reading manga and manhwa
+- 🏋️ Gym
 
-- ✨ Reading Light Novels
-- ✨ Reading mangas/manwhas
-- ✨ Gym
+![Neon street in Kabukicho, Shinjuku, Tokyo](https://commons.wikimedia.org/wiki/Special:FilePath/Colorful_neon_street_signs_in_Kabukich%C5%8D,_Shinjuku,_Tokyo.jpg?width=700)
 
-</br>
-</br>
-</br>
+Kabukicho, Tokyo (https://commons.wikimedia.org/wiki/File:Colorful_neon_street_signs_in_Kabukich%C5%8D,_Shinjuku,_Tokyo.jpg) (CC BY-SA)
+
+\
 
 
-<div align="center">
-   <img hight="320" width="450" align="center" alt="GIF" src="https://github.com/KuroshiD/KuroshiD/blob/main/gi3.gif">
-</div>
+![GIF](https://raw.githubusercontent.com/KuroshiD/KuroshiD/main/gi3.gif)
 
-</br>
-</br>
+\
 
-<div align="center" >  
-  <div style="display:flex;" />
-    <a href="https://github.com/anuraghazra/github-readme-stats"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=KuroshiD&theme=dracula" />
-    </a>
-   </div>
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KuroshiD&show_icons=true&theme=transparent&title_color=bd93f9&icon_color=bd93f9&text_color=8b949e&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KuroshiD&layout=compact&theme=transparent&title_color=bd93f9&text_color=8b949e&hide_border=true)
