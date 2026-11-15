@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?gtype=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kuroshi&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Kuroshi banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kuroshi&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Kuroshi banner" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=BD93F9&center=true&vCenter=true&width=620&lines=Full-Stack+Development;AI+Research;Search+%26+Planning;Reinforcement+Learning)](https://github.com/KuroshiD)
 
@@ -67,7 +67,6 @@ Favorite novel: **Lord of the Mysteries**.
 ## GitHub stats
 
 <div align="center">
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=KuroshiD&theme=transparent&hide_border=true&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="Streak"/>
 
